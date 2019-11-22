@@ -1,0 +1,26 @@
+﻿none
+list
+Nenhum,nenhum
+
+morph
+list
+Concordância_em_número,numberConc Concordância_em_gênero,genderConc Forma_verbal,verbForm PoS,posChg Outros,otherMorph
+
+lex
+list
+Palavra_extra,extWord Palavra_ausente,abstWord Palavra_não_traduzida,notTrWord Palavra_incorretamente_traduzida,incTrWord Palavra_com_erro_de_grafia,wrtErrWord
+
+grm
+list
+N-grama_extra,extGrm N-grama_ausente,abstGrm N-grama_não_traduzido,notTrGrm N-grama_incorretamente_traduzido,incTrGram
+
+ord
+sub
+
+oth
+sub
+
+main
+sub
+Morfossintático,morph,morph Lexical,lex,lex N-grama,grm,grm Ordem_errada,ord,ord Fonte-alvo,oth,oth
+

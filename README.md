@@ -33,7 +33,11 @@ In the example, the words `finals`, `decisão` and `finals` are aligned with the
 All tags are defined in the file `lalic-catsv2`.
 
 ## Citing
-A comparative analysis using the annotations provided in this corpus was published in [LREC 2020](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.446.pdf). Here, we provide the bibtex entry for citing:
+A comparative analysis using the annotations provided in this corpus was published in [LREC 2020](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.446.pdf).
+
+**Caseli, H. de M. and Inácio, M. (2020) ‘NMT and PBSMT error analyses in English to Brazilian Portuguese automatic translations’, in Proceedings of the 12th language resources and evaluation conference. Marseille, France: European Language Resources Association, pp. 3623–3629. Available at: https://www.aclweb.org/anthology/2020.lrec-1.446.**
+
+Here, we provide the bibtex entry for citing:
 
 ```
 @inproceedings{CaseliInacio2020,
